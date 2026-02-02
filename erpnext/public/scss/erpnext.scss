@@ -87,7 +87,7 @@ body[data-route="pos"] {
 
 	.pos-bill-item:hover,
 	.list-customers-table > .pos-list-row:hover {
-		background-color: #f5f7fa;
+		background-color: #0dd33b;
 		cursor: pointer;
 	}
 
@@ -162,7 +162,7 @@ body[data-route="pos"] {
 		margin: 10px 10px;
 		font-size: 24px;
 		font-weight: 200;
-		background-color: #fdfdfd;
+		background-color: #0fe716;
 		border-color: #e8e8e8;
 	}
 
@@ -172,7 +172,7 @@ body[data-route="pos"] {
 		width: 69px;
 		font-size: 20px;
 		font-weight: 200;
-		background-color: #fdfdfd;
+		background-color: #15e665;
 		border-color: #e8e8e8;
 		margin-left: -4px;
 	}
@@ -191,7 +191,7 @@ body[data-route="pos"] {
 		font-size: 20px;
 		font-weight: 200;
 		border-radius: 0;
-		background-color: #fff;
+		background-color: #2ae164;
 		margin-left: -4px;
 
 		@media (max-width: var(--xl-width)) {
@@ -317,7 +317,7 @@ body[data-route="pos"] {
 	}
 
 	.pos-bill-header {
-		background-color: #f5f7fa;
+		background-color: #20e658;
 		border: 1px solid var(--border-color);
 		padding: 13px 15px;
 	}
